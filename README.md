@@ -10,6 +10,10 @@
 
 <img src="https://imgur.com/a/x89Rf3k.gif" width=200><br>
 
+## Walkthrough GIF Link
+
+https://imgur.com/a/x89Rf3k.gif
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
