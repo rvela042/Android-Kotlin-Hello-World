@@ -8,6 +8,8 @@
 
 ![](https://github.com/rvela042/Andoid-Kotlin-Hello-World/blob/main/video1107358189_Trim.gif)
 
+<img src="https://imgur.com/a/x89Rf3k.gif" width=200><br>
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
