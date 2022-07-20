@@ -6,10 +6,7 @@
 
 ### App Walk-though
 
-
-
-<img src="URL" width=200><br>
-
+![](https://github.com/rvela042/Andoid-Kotlin-Hello-World/blob/main/video1107358189_Trim.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
